@@ -4,5 +4,5 @@ Los objetivos de este TP son:
 - Tener un primer contacto con las herramientas necesarias para abordar la resolución de los trabajos posteriores.
 - La creación de repositorio personal git.
 
-Compilador: GCC, versión 15.1.0
+Compilador: GCC, versión 15.1.0 ; 
 Versión de C: C23
